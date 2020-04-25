@@ -1,6 +1,6 @@
 # flutter_wechat
 
-A new Flutter application.
+Flutter高仿微信。UI
 
 ## Getting Started
 
